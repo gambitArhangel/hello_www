@@ -1,1 +1,1 @@
-python ("hello two")
+print ("hello two")
